@@ -2,9 +2,9 @@
 layout: default
 ---
 
-| Title        | Description         | Github | Link |
+| Title        | Description         | Git | Exec |
 |:-------------|:------------------|:------|:------|
-| AI Photo     | good swedish fish | [Link](https://github.com/enozdev)  | [Link](http://www.naver.com)  |
-| AI Photo     | good swedish fish | [Link](https://github.com/enozdev)  | [Link](http://www.naver.com)  |
-| AI Photo     | good swedish fish | [Link](https://github.com/enozdev)  | [Link](http://www.naver.com)  |
-| AI Photo     | good swedish fish | [Link](https://github.com/enozdev)  | [Link](http://www.naver.com)  |
+| AI Photo     | Generative AI that creates images based on the user's face | [Git](https://github.com/enozdev)  | [Exec](http://www.naver.com)  |
+| AI Photo     | Generative AI that creates images based on the user's face | [Git](https://github.com/enozdev)  | [Exec](http://www.naver.com)  |
+| AI Photo     | Generative AI that creates images based on the user's face | [Git](https://github.com/enozdev)  | [Exec](http://www.naver.com)  |
+| AI Photo     | Generative AI that creates images based on the user's face | [Git](https://github.com/enozdev)  | [Exec](http://www.naver.com)  |
